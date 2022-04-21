@@ -1,0 +1,80 @@
+Rasgulla             
+Palak Paneer         
+Poha                 
+Naan                 
+Lassi                
+Kofta                
+Jalebi               
+Gulab Jamun          
+Dal                  
+Chapati              
+Chicken Tikka        
+Biriyani             
+Aloo matar           
+Aloo Tikki           
+Aloo Gobi            
+Aloo Shimla Mirch    
+Waffle               
+Tacos                
+Sushi                
+Cake                 
+Steak                
+Spaghetti            
+Samosa               
+Ramen                
+Pancakes             
+Pizza                
+Nachos               
+Omlette/Eggs         
+Ice cream            
+Soup                 
+Hot Dog              
+Burger               
+Frozen Yogurt/Yogurt 
+French Toast         
+Rice                 
+Falafel              
+Cupcakes             
+Sandwich             
+Donuts               
+Dumplings            
+Cheescake            
+Burrito              
+Pie                  
+Ras malai            
+Phirni               
+Misti doi            
+Karela Bharta        
+Halwa                
+Daal Puri            
+Spring Rolls         
+Boondi               
+Bhatura              
+Fish                 
+Risotto              
+Poutine              
+Paella               
+Pad thai             
+Onion rings          
+Ravioli              
+Sandesh              
+Lasagna              
+Laddu                
+Bruschetta           
+Garlic Bread         
+French Fries         
+Churros              
+Chicken/Chicken Wings
+Quesadillas          
+Chicken Curry        
+Guacamole            
+Baklava              
+Kadai Paneer         
+Ghevar               
+Tiramisu             
+Salad                
+
+Indian Foods: 30
+Normal foods: 45
+
+{"labelName":"Burger               ","labelId":"label_5ylgkrbotpxolf90","confidence":0.1554294712045686}
